@@ -1,6 +1,10 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
+"""
+Created on Monday Feb 5 13:15:00 2024
 
+@author: Winebald BANITUZE
+"""
 
 
 BaseGeometry = __import__('7-base_geometry').BaseGeometry
